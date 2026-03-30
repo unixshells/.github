@@ -2,9 +2,9 @@
 
 Linux VMs for developers and open-source tools for terminal access.
 
-![Web Terminal](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss.png)
+![Web Terminal](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss.jpg)
 
-![Terminal Settings](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss-settings.png)
+![Terminal Settings](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss-settings.jpg)
 
 **[Shells](https://unixshells.com/shells)** — Full KVM virtual machines with Ubuntu 24.04, 200+ tools pre-installed, public IPv6, and dev preview URLs. Run Claude Code, Aider, or any AI coding agent in a persistent session. Connect from any terminal, browser, or phone.
 
