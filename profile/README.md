@@ -6,6 +6,8 @@ Linux VMs for developers and open-source tools for terminal access.
 
 ![Terminal Settings](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss-settings.jpg)
 
+![Settings Window](https://raw.githubusercontent.com/unixshells/.github/main/profile/terminal-ss-settings-windows.jpg)
+
 **[Shells](https://unixshells.com/shells)** — Full KVM virtual machines with Ubuntu 24.04, 200+ tools pre-installed, public IPv6, and dev preview URLs. Run Claude Code, Aider, or any AI coding agent in a persistent session. Connect from any terminal, browser, or phone.
 
 **[latch](https://github.com/unixshells/latch)** — Terminal multiplexer with built-in SSH server and web access. Like tmux, but you can SSH into it or open it in a browser. One binary, zero config. Use it standalone on any machine — with a public IP, Tailscale, or WireGuard, no relay needed.
